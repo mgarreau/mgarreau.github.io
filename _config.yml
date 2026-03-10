@@ -5,11 +5,15 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-sitemap
 minimal_mistakes_skin: default
 
 google_site_verification: 3Y8uAxZHAaIkA1hJSKMN9EfGrhWqTXyRkMaM4S1Dx4A
 title: Morgane Garreau
+name: Morgane Garreau
 description: Postdoctoral fellow at INRIA Saclay working on biomechanics and hemodynamics.
+url: "https://morganegarreau.github.io"
+baseurl: ""
 
 author:
   name: "Morgane Garreau"
