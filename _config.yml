@@ -7,6 +7,10 @@ plugins:
   - jekyll-include-cache
 minimal_mistakes_skin: default
 
+google_site_verification: 3Y8uAxZHAaIkA1hJSKMN9EfGrhWqTXyRkMaM4S1Dx4A
+title: Morgane Garreau
+description: Postdoctoral fellow at INRIA Saclay working on biomechanics and hemodynamics.
+
 author:
   name: "Morgane Garreau"
   avatar: "/assets/images/photo.png"
