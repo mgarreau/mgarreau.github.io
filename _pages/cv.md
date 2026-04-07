@@ -7,7 +7,8 @@ permalink: /cv/
 <small>
 
 <p style="font-size: 18px;">
-You can find my resume <a href="../assets/Resume_GARREAU_Morgane.pdf">here</a> (last update 02/2026).
+You can find my resume <a href="../assets/Resume_GARREAU_Morgane.pdf">here</a>. A less academic resume is also available <a href="../assets/CV_GARREAU_Morgane.pdf">in French</a>.
+<i>Last update 04/2026</i>.
 </p>
 
 <p style="color: #006400;"><u><b>Short resume</b></u></p>

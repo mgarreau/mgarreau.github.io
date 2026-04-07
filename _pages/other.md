@@ -18,6 +18,7 @@ permalink: /other/
       <li> <b>Rendez-vous des Jeunes Mathématiciennes et Informaticiennes </b>: gathering of young girls interested in STEM, supervision of a group of 4 high school students (February 2024) </li>
       <li> Interview for the careers guidance website Studyrama : <a href="https://www.studyrama.com/emploi/premier-emploi/portraits-jeunes-chercheurs-doctorants-inria">"Ils ont choisi de faire de la recherche leur métier"</a> (in French) </li>
       <li> Interview Engineering for Health Interdisciplinary Center (E4H) BME Seed Grant : <a href="https://www.youtube.com/watch?v=U_Z-TO1aZMM">video</a> (in French) </li>
+      <li> Podcast <a href="https://open.spotify.com/episode/513iyw8F3uqIPDsLZ4y3hY?si=uUdTgI2SQQuBGETynpDj7Q&nd=1&dlsi=6f7f16eecd994d69">The Digital Twin Theory</a> by <a href="https://vph-society.org/">VPH - The Society for in silico medicine</a> with Dr. Christian Kassasseya. </li>
     </ul>
   </li>
   <li> During my PhD thesis:
